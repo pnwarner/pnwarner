@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=pnwarner&theme=react&border_radius=10" alt="streak stats"/>
-  <img src="https://streak-stats.demolab.com?user=pnwarner&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=pnwarner" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/?user=pnwarner&theme=react&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=pnwarner&theme=github-dark-blue&hide_border=true" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=pnwarner" />
 </div>
