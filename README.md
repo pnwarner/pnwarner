@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://streak-stats.demolab.com/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://streak-stats.demolab.com/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/?user=pnwarner&theme=react&border_radius=10" alt="streak stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pnwarner&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=pnwarner" alt="top langs" />
 </div>
