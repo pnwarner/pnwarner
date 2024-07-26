@@ -29,21 +29,22 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<!--
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
+-->
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/?user=pnwarner&theme=react&border_radius=10" alt="streak stats"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pnwarner&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=pnwarner&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=pnwarner" alt="top langs" />
 </div>
