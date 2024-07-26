@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 <div align=center>
   <img src="https://streak-stats.demolab.com?user=pnwarner&theme=github-dark-blue&hide_border=true" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=pnwarner&theme=transparent" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnwarner&hide=HTML&theme=transparent" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=pnwarner&theme=transparent&hide_border=true" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnwarner&hide=HTML&theme=transparent&hide_border=true" />
 </div>
