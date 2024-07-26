@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pnwarner.pnwarner" />
-
+-->
 <div align="center"> 
   <a href="mailto:patrick.warner@paradoxresearch.net">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
