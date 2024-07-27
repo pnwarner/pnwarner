@@ -1,6 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pnwarner.pnwarner" />
+
 ## Hello! 👋
 I'm a passionate software and website developer with a keen interest in server architecture and administration. Driven by a fascination for both machine-to-machine interaction and enhancing human communication, I enjoy crafting solutions that streamline processes and improve communication.
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake-dark.svg" />
@@ -108,7 +110,7 @@ I'm a passionate software and website developer with a keen interest in server a
 <details>
   <summary style="font-weight: bold; font-size: 1.75em"><span >💾 My Code</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Code)</span></summary>
   <div align="center">
-      <table border="0" style="border-collapse: collapse;">
+      <table border="0" style="border-collapse: collapse;" align="left">
           <tr>
             <th style="border: 1px solid #ddd; padding: 10px; background-color: #f5f5f5;">My Projects</th>
             <td style="border: 1px solid #ddd; padding: 10px;">
