@@ -119,6 +119,16 @@ I'm a passionate software and website developer with a keen interest in server a
               <td style="border: 1px solid #ddd; padding: 10px;">
                 <div>
                   <details>
+                    <summary>Responsive Web Design</summary>
+                    <ol>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/responsive-web-design" target="_blank">Survey Form</a></li>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/responsive-web-design" target="_blank">Tribute Page</a></li>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/responsive-web-design" target="_blank">Technical Documentation Page</a></li>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/responsive-web-design" target="_blank">Product Landing Page</a></li>
+                      <li><a href="https://pnwarner.github.io" target="_blank">Personal Portfolio Page</a></li>
+                    </ol>
+                  </details>
+                  <details>
                     <summary>JavaScript Algorithms and Data Structures</summary>
                     <ol>
                       <li><a href="https://codepen.io/pnwarner/pen/yLrJXYz" target="_blank">Palindrome Checker</a></li>
