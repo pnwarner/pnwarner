@@ -1,4 +1,4 @@
-<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pnwarner.pnwarner" />-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pnwarner.pnwarner" />
 ## Hello! 👋
 I'm a passionate software and website developer with a keen interest in server architecture and administration. Driven by a fascination for both machine-to-machine interaction and enhancing human communication, I enjoy crafting solutions that streamline processes and improve communication.
 <div align="center">
