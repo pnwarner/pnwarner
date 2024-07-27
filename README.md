@@ -2,17 +2,14 @@
 
 ## Hello! 👋
 I'm a passionate software and website developer with a keen interest in server architecture and administration. Driven by a fascination for both machine-to-machine interaction and enhancing human communication, I enjoy crafting solutions that streamline processes and improve communication.
- <div align="center">
-    <!--
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.gif" />
-    -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 <div align="center"> 
   <a href="mailto:patrick.warner@paradoxresearch.net">
     <img src="https://img.shields.io/badge/Email-Me-geen?style=for-the-badge&logo=zoho" />
@@ -25,7 +22,7 @@ I'm a passionate software and website developer with a keen interest in server a
   </a>
 </div>
 <details>
-  <summary style="font-weight: bold; font-size: 1.75em">My Skills</summary>
+  <summary style="font-weight: bold; font-size: 1.75em"><span>🧠 My Skills</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Skills)</span></summary>
   <div align="center">
       <table border="0" style="border-collapse: collapse;">
           <tr>
@@ -98,9 +95,8 @@ I'm a passionate software and website developer with a keen interest in server a
       </table>
   </div>
 </details>
-
 <details>
-  <summary style="font-weight: bold; font-size: 1.75em">My Profile Stats</summary>
+  <summary style="font-weight: bold; font-size: 1.75em"><span >📊 My Profile Stats</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Stats)</span></summary>
   <div align="center">
     <img src="https://streak-stats.demolab.com?user=pnwarner&theme=transparent&hide_border=true" />
   </div>
@@ -110,5 +106,127 @@ I'm a passionate software and website developer with a keen interest in server a
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnwarner&theme=transparent&hide_border=true" />
   </div>
+</details>
+<details>
+  <summary style="font-weight: bold; font-size: 1.75em"><span >💾 My Code</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Code)</span></summary>
+  <div>
+      <table border="0" style="border-collapse: collapse;">
+          <tr>
+            <th style="border: 1px solid #ddd; padding: 10px; background-color: #f5f5f5;">My Projects</th>
+            <td style="border: 1px solid #ddd; padding: 10px;">
+              <ul align="left">
+                <li><a href="https://github.com/pnwarner/crmbl" target="_blank">CRMBL CMS</a></li>
+                <li><a href="https://pnwarner.github.io/blog" target="_blank">MXBlog</a></li>
+                <li><a href="https://github.com/pnwarner/pbn-bot" target="_blank">PBNBot</a></li>
+                <li><a href="https://paradoxresearch.net/?about" target="_blank">ParadoxResearch.net</a></li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+              <th style="border: 1px solid #ddd; padding: 10px; background-color: #e0e0e0;">freeCodeCamp Certification Projects</th>
+              <td style="border: 1px solid #ddd; padding: 10px;">
+                <div>
+                  <details>
+                    <summary>JavaScript Algorithms and Data Structures</summary>
+                    <ol>
+                      <li><a href="https://codepen.io/pnwarner/pen/yLrJXYz" target="_blank">Palindrome Checker</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/KKYMqWX" target="_blank">Roman Numeral Converter</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/bGJeRjr" target="_blank">Telephone Number Validator</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/gOyMRJW" target="_blank">Cash Register</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/bGJerdv" target="_blank">Pokemon Search App</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Front End Development Libraries</summary>
+                    <ol>
+                      <li><a href="https://codepen.io/pnwarner/pen/oNOXeMm" target="_blank">Random Quote Machine</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/gOypNdj" target="_blank">Markdown Previewer</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/JjVYMav" target="_blank">Drum Machine</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/RwOWeqa" target="_blank">JavaScript Calculator</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/gOyPQrg" target="_blank">25 + 5 Clock</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Data Visualization</summary>
+                    <ol>
+                      <li><a href="https://codepen.io/pnwarner/pen/eYoZqYa" target="_blank">Visualize Data with a Bar Chart</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/WNWxZgr" target="_blank">Visualize Data with a Scatterplot Graph</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/BaELaBy" target="_blank">Visualize Data with a Heatmap</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/zYXKRBB" target="_blank">Visualize Data with a Chloropleth Map</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/xxeRxQQ" target="_blank">Visualize Data with a Treemap Diagram (v1)</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/dyLOGPb" target="_blank">Visualize Data with a Treemap Diagram (v2)</a></li>
+                      <li><a href="https://codepen.io/pnwarner/pen/zYXorxM" target="_blank">Visualize Data with a Treemap Diagram (v3)</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Relational Database</summary>
+                    <ol>
+                      <li><a href="https://github.com/pnwarner/fcc-sql-universe" target="_blank">Celestial Bodies Database</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-sql-worldcup" target="_blank">World Cup Database</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-sql-salon-scheduler" target="_blank">Salon Appointment Scheduler</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-sql-periodic_table" target="_blank">Periodic Table Database</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-sql-number_guessing_game" target="_blank">Number Guessing Game</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Back End Development and APIs</summary>
+                    <ol>
+                      <li><a href="https://github.com/pnwarner/fcc-expressjs-timestamp-microservice" target="_blank">Timestamp Microservice</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-expressjs-request-header-parser-microservice" target="_blank">Request Header Parser Microservice</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-expressjs-url-shortener-microservice" target="_blank">URL Shortner Microservice</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-expressjs-exercise-tracker" target="_blank">Exercise Tracker</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-expressjs-file-metadata-microservice" target="_blank">File Metadata Microservice</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Quality Assurance</summary>
+                    <ol>
+                      <li><a href="https://github.com/pnwarner/fcc-quality_assurance-imperial-metric-converter" target="_blank">Metric-Imperial Converter</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-quality_assurance-Issue-tracker" target="_blank">Issue Tracker</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-quality_assurance-Personal-library" target="_blank">Personal Library</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-quality_assurance-Sudoku-solver" target="_blank">Sudoku Solver</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-quality_assurance-American-to-British-translator" target="_blank">American British Translator</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Scientific Computing with Python</summary>
+                    <ol>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/scientific-computing-with-python-v7" target="_blank">Arithmetic Formatter</a></li>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/scientific-computing-with-python-v7" target="_blank">Time Calculator</a></li>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/scientific-computing-with-python-v7" target="_blank">Budget App</a></li>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/scientific-computing-with-python-v7" target="_blank">Polygon Area Calculator</a></li>
+                      <li><a href="https://www.freecodecamp.org/certification/patwarner86/scientific-computing-with-python-v7" target="_blank">Probability Calculator</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Data Analysis with Python</summary>
+                    <ol>
+                      <li><a href="https://github.com/pnwarner/fcc-Data_Analysis_Python-mean-variance-standard-deviation-calculator" target="_blank">Mean-Variance-Standard Deviation Calculator</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Data_Analysis_Python-Demographic-data-analyzer" target="_blank">Demographic Data Analyzer</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Data_Analysis_Python-Medical-data-visualizer" target="_blank">Medical Data Visualizer</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Data_Analysis_Python-Page-view-time-series-visualizer" target="_blank">Page View Time Series Visualizer</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Data_Analysis_Python-Sea-level-predictor" target="_blank">Sea Level Predictor</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Information Security</summary>
+                    <ol>
+                      <li><a href="https://github.com/pnwarner/fcc-Information_Security-Stock-price-checker" target="_blank">Stock Price Checker</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Information_Security-Anonymous-message-board" target="_blank">Anonymous Message Board</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Information_Security-Port-scanner" target="_blank">Port Scanner</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Information_Security-SHA-1-Password-cracker" target="_blank">SHA-1 Password Cracker</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Information_Security-Secure-real-time-multiplayer-game" target="_blank">Secure Realtime Multiplayer Game</a></li>
+                    </ol>
+                  </details>
+                  <details>
+                    <summary>Machine Learning with Python</summary>
+                  </details>
+                  <details>
+                    <summary>College Algebra with Python</summary>
+                  </details>
+                </div>
+              </td>
+          </tr>
+      </table>
 </details>
 
