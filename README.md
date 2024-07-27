@@ -3,7 +3,14 @@
 ## Hello! 👋
 I'm a passionate software and website developer with a keen interest in server architecture and administration. Driven by a fascination for both machine-to-machine interaction and enhancing human communication, I enjoy crafting solutions that streamline processes and improve communication.
  <div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.gif" />
+    <!--
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
+    </picture>
+    -->
   </div>
 
 <div align="center"> 
