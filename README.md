@@ -107,6 +107,7 @@ I'm a passionate software and website developer with a keen interest in server a
             <th style="border: 1px solid #ddd; padding: 10px; background-color: #f5f5f5;">My Projects</th>
             <td style="border: 1px solid #ddd; padding: 10px;">
               <ul align="left">
+                <li><a href="https://pnwarner.github.io" target="_blank">Portfolio Page</a>
                 <li><a href="https://github.com/pnwarner/crmbl" target="_blank">CRMBL CMS</a></li>
                 <li><a href="https://pnwarner.github.io/blog" target="_blank">MXBlog</a></li>
                 <li><a href="https://github.com/pnwarner/pbn-bot" target="_blank">PBNBot</a></li>
