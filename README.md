@@ -109,7 +109,7 @@ I'm a passionate software and website developer with a keen interest in server a
 </details>
 <details>
   <summary style="font-weight: bold; font-size: 1.75em"><span >💾 My Code</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Code)</span></summary>
-  <div align="center">
+  <div>
       <table border="0" style="border-collapse: collapse;">
           <tr>
             <th style="border: 1px solid #ddd; padding: 10px; background-color: #f5f5f5;">My Projects</th>
