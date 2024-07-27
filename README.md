@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pnwarner.pnwarner" />
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pnwarner.pnwarner" />-->
 
 ## Hello! 👋
 I'm a passionate software and website developer with a keen interest in server architecture and administration. Driven by a fascination for both machine-to-machine interaction and enhancing human communication, I enjoy crafting solutions that streamline processes and improve communication.
@@ -10,17 +10,9 @@ I'm a passionate software and website developer with a keen interest in server a
       <img alt="github-snake" src="https://raw.githubusercontent.com/pnwarner/pnwarner/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-<div align="center"> 
-  <a href="mailto:patrick.warner@paradoxresearch.net">
-    <img src="https://img.shields.io/badge/Email-Me-geen?style=for-the-badge&logo=zoho" />
-  </a>
-  <a href="https://www.linkedin.com/in/patrick-warner-4452292b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://pnwarner.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/github-page-green?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-</div>
+
+---
+
 <details>
   <summary style="font-weight: bold; font-size: 1.75em"><span>🧠 My Skills</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Skills)</span></summary>
   <div align="center">
@@ -230,3 +222,16 @@ I'm a passionate software and website developer with a keen interest in server a
       </table>
 </details>
 
+---
+
+<div align="center"> 
+  <a href="mailto:patrick.warner@paradoxresearch.net">
+    <img src="https://img.shields.io/badge/Email-Me-geen?style=for-the-badge&logo=zoho" />
+  </a>
+  <a href="https://www.linkedin.com/in/patrick-warner-4452292b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://pnwarner.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/github-page-green?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
