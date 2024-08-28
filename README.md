@@ -223,6 +223,9 @@ I'm a passionate software and website developer with a keen interest in server a
                   </details>
                   <details>
                     <summary>Machine Learning with Python</summary>
+                    <ol>
+                      <li><a href="https://github.com/pnwarner/fcc-Machine_Learning_Python-Rock-Paper-Scissors" target="_blank">Rock Paper Scissors</a></li>
+                    </ol>
                   </details>
                   <details>
                     <summary>College Algebra with Python</summary>
