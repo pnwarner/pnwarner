@@ -225,6 +225,7 @@ I'm a passionate software and website developer with a keen interest in server a
                     <summary>Machine Learning with Python</summary>
                     <ol>
                       <li><a href="https://github.com/pnwarner/fcc-Machine_Learning_Python-Rock-Paper-Scissors" target="_blank">Rock Paper Scissors</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Machine_Learning_Python-Cat-and-dog-image-classifier" target="_blank">Cat and Dog Image Classifier</a></li>
                     </ol>
                   </details>
                   <details>
