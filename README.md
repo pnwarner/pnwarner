@@ -96,7 +96,7 @@ I'm a passionate software and website developer with a keen interest in server a
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pnwarner&theme=transparent&hide_border=true" />
   </div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnwarner&theme=transparent&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnwarner&theme=transparent&hide_border=true&hide=HTML,Jupyter+Notebook" />
   </div>
 </details>
 <details>
