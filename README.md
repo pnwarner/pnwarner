@@ -228,6 +228,7 @@ I'm a passionate software and website developer with a keen interest in server a
                       <li><a href="https://github.com/pnwarner/fcc-Machine_Learning_Python-Cat-and-dog-image-classifier" target="_blank">Cat and Dog Image Classifier</a></li>
                       <li><a href="https://github.com/pnwarner/fcc-Machine_Learning_Python-Book-recommendation-engine-using-knn" target="_blank">Book Recommendation Engine using KNN</a></li>
                       <li><a href="https://github.com/pnwarner/fcc-Machine_Learning_Python-Linear-regression-health-costs-calculator" target="_blank">Linear Regression Health Costs Calculator</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-Machine_Learning_Python-Neural-network-SMS-text-classifier" target="_blank">Neural Network SMS Text Classifier</a></li>
                     </ol>
                   </details>
                   <details>
