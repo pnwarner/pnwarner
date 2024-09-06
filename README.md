@@ -49,6 +49,7 @@ I'm a passionate software and website developer with a keen interest in server a
                   <img id="redux-icon" src="https://skillicons.dev/icons?i=redux" alt="Redux state management library" title="Redux">
                   <img id="rails-icon" src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails web framework" title="Rails">
                   <img id="selenium-icon" src="https://skillicons.dev/icons?i=selenium" alt="Selenium web automation tool" title="Selenium">
+                  <img id="tensorflow-icon" src="https://skillicons.dev/icons?i=tensorflow" alt="Machine learning with Tensorflow" title="Tensorflow">
                   <img id="wordpress-icon" src="https://skillicons.dev/icons?i=wordpress" alt="WordPress content management system" title="WordPress">
               </td>
           </tr>
