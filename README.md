@@ -233,6 +233,9 @@ I'm a passionate software and website developer with a keen interest in server a
                   </details>
                   <details>
                     <summary>College Algebra with Python</summary>
+                    <ol>
+                      <li><a href="https://github.com/pnwarner/fcc-College_Algebra_with_Python-Multi-function-calculator" target="_blank">Build a Multi-Function Calculator</a></li>
+                    </ol>
                   </details>
                 </div>
               </td>
