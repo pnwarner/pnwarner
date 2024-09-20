@@ -237,6 +237,7 @@ I'm a passionate software and website developer with a keen interest in server a
                     <ol>
                       <li><a href="https://github.com/pnwarner/fcc-College_Algebra_with_Python-Multi-function-calculator" target="_blank">Build a Multi-Function Calculator</a></li>
                       <li><a href="https://github.com/pnwarner/fcc-College_Algebra_with_Python-Graphing-calculator" target="_blank">Build a Graphing Calculator</a></li>
+                      <li><a href="https://github.com/pnwarner/fcc-College_Algebra_with_Python-Three-math-games" target="_blank">Build Three Math Games</a></li>
                     </ol>
                   </details>
                 </div>
