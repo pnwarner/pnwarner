@@ -121,7 +121,8 @@ I'm a passionate software and website developer with a keen interest in server a
               <td style="border: 1px solid #ddd; padding: 10px;">
                 <div>
                   <details>
-                    <summary style="font-weight: bold; font-size: 1.25em"><span>fCC Projects</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Projects)</span></summary>
+                    <summary style="font-weight: bold; font-size: 1.25em"><span>📚 fCC Projects</span><span style="font-size: 0.5em; font-style: italic;"> (Expand Projects)</span></summary>
+                    <br />
                     <details>
                       <summary>Responsive Web Design</summary>
                       <ol>
